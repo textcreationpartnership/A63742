@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of what is discovered concerning the murther of the Archbp. of St. Andrews and of what appears to have been the occasion thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63742</idno>
+            <idno type="STC">Wing T3080</idno>
+            <idno type="STC">ESTC R17843</idno>
+            <idno type="EEBO-CITATION">12600612</idno>
+            <idno type="OCLC">ocm 12600612</idno>
+            <idno type="VID">64163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of what is discovered concerning the murther of the Archbp. of St. Andrews and of what appears to have been the occasion thereof.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sharp, James, 1613-1679.</term>
+               <term>Murder --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64163:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>A True RELATION Of what is Diſcovered concerning the MURTHER Of the Archb<hi rend="sup">p</hi> of St. Andrews, And of what appears to have been the Occaſion thereof.</head>
+            <p>ONE <hi>Lovel</hi> of <hi>Cunuchie,</hi> being Vaſſal to the Bi<g ref="char:EOLhyphen"/>ſhoprick of St. <hi>Andrews;</hi> the late Archbiſhop, upon the account of ſome few duties reſting to him, did gift to his own behoof, the <hi>Eſcheat</hi> of <hi>Lovell</hi> of <hi>Cunuchie,</hi> in prejudice of his numerous family and many Creditors. One <hi>Haxſtoun</hi> of <hi>Rachillet</hi> being one of theſe Creditors, and at that time a Favourite of the Arch<g ref="char:EOLhyphen"/>biſhops, prevails with him upon his giving Bond to the Biſhop for 1000 <hi>l. Scots,</hi> or thereby, to aſſign the gift in his Favours. Thereafter the Archbiſhop conceiving pre<g ref="char:EOLhyphen"/>judice againſt him, Regiſtrates <hi>Haxſtouns</hi> Bond, ſurpriſes
+<pb n="2" facs="tcp:64163:2"/>
+               <!-- PDF PAGE 2 -->him at St. <hi>Andrews;</hi> having called for him, takes him with Caption, and keeps him Priſoner in St. <hi>Andrews</hi> for ſe<g ref="char:EOLhyphen"/>veral months, until one Mr. <hi>Falconer</hi> a Conform Miniſter obtains his liberty. But <hi>Haxſtoun</hi> having ſtronger re<g ref="char:EOLhyphen"/>ſentments of his Impriſonment, than of the liberty to which he was reſtored, at his liberation in preſence of witneſſes, Vowed and Swore, <hi>God dam him if ever he went to Church as long as there was a Biſhop in</hi> Scotland; <hi>And that if he lived he ſhould be revenged on the Biſhops perſon.</hi>
+            </p>
+            <p>This <hi>Haxſtoun</hi> was a vile perſon, had nothing of good in him, and was ſcarce admitted to the Society of Sober-men; He was not once only a Favourite, but ſervant of the Biſhop, having Collected part of his Rents. However now the Archbiſhop (who was enemy to any thing that had intereſt in <hi>Haxſtoun</hi>) Commands Captain <hi>Carſtairs, Garret,</hi> and one <hi>Scarlet</hi> a Tinker, to apprehend <hi>John Balfour</hi> of <hi>Kinloch,</hi> brother-in-law to the ſaid <hi>Haxſtoun,</hi> (no Presbyterian, though an enemy to the Biſhop, upon the injury done to <hi>Haxſtoun</hi> his bro<g ref="char:EOLhyphen"/>ther-in-law) who reſiſted the ſaid <hi>Carſtairs,</hi> and wounded ſome of them; And thereupon was cited before the Council, (though <hi>Carſtairs</hi> had no Warrant to appre<g ref="char:EOLhyphen"/>hend him, only to gratifie the Biſhop), where not daring to appear, he is denunced and intercommuned, and made a ſtranger to his own Houſe for two Years; wherewith, and with the robbing and ſpoiling committed by Bai<g ref="char:EOLhyphen"/>liff <hi>Carmichel,</hi> the ſecret Councils Sheriff depute in <hi>Fife,</hi> The ſaid <hi>Haxſtoun</hi> and <hi>Balfour,</hi> being inraged and in<g ref="char:EOLhyphen"/>flamed with the deſire of revenge upon the Archbiſhop,
+<pb n="3" facs="tcp:64163:2"/>
+               <!-- PDF PAGE 2 -->they did upon the third of <hi>May</hi> inſtant, with eight or nine other Ruffians, (three of them called as they ſay, <hi>Balfours</hi>) wait his return from <hi>Edenbrough</hi> to St. <hi>Andrews,</hi> and there near a houſe called <hi>Magus,</hi> in an open Muire, and within two miles or thereby of St. <hi>Andrews,</hi> they purſue him; the Coachman and Poſtilion perceiving, advertiſes him, and drives with all their might to eſcape; So that for near three quarters of a mile they could not overtake them. At laſt <hi>Balfour</hi> and <hi>Haxſtoun</hi> being better mounted than the reſt, <hi>Balfour</hi> comes up with the Poſtilion, com<g ref="char:EOLhyphen"/>mands to ſtop, and he refuſing, ſtrikes him over the face with his Sword, diſmounts him, and diſorders the Coach-horſe; <hi>Haxſtoun</hi> comes to the Coach and Fires ſeveral Piſtols at the Biſhop; but none of them, although they hit his body, did pierce him; they pierced through his Clothes, but left only blunt marks upon his body, ſomewhat like to burning.</p>
+            <p>Whereupon <hi>Haxſtoun</hi> drags him out of his Coach, ſtrikes him over the left Eye with a deep wound, who thereupon fell, and gave him ſeveral other mortal ſtrokes upon his head, and cuts in his arms, rifles his pockets, and his Daughters (who was with him in the Coach) of their Gold Watches and Papers, diſarms his ſervants without hurting any except the Poſtilion, who was wounded at firſt; and that his Daughter received a wound on her thumb, graſping to ſave her Father; and then flee all together.</p>
+            <p>This is the accompt both of the perſons, the occaſion of their wicked act, and the circumſtances of the act it ſelf:
+<pb n="4" facs="tcp:64163:3"/>
+               <!-- PDF PAGE 3 -->Which is diſcovered and made known by the Examination of the Biſhops own ſervants upon Oath, and a ſervant of the houſe near the place where the fact was done, where <hi>Haxstoun</hi> and <hi>Balfour</hi> left their Coats before they attack<g ref="char:EOLhyphen"/>ed the Biſhop; and after it was done, came and brought them away.</p>
+            <p>The Biſhops ſervants depone, That a man mounted on a bay Houſe ſtroke the Poſtilion and turned the Coach; and that he mounted on the white, dragged the Biſhop out of the Coach, and killed him with his Sword.</p>
+            <p>And the ſervant in the Houſe depones, That it was <hi>John Balfour</hi> of <hi>Kinloch</hi> was mounted on the bay Horſe, and <hi>Haxſtoun</hi> that was mounted on the white. That theſe two perſons had a perſonal ſpite and hatred at the Biſhop for the cauſes before, all know, and the Records witneſs. That the Bullets did not pierce his body, was ſeen by the Chyrurgeon, <hi>William Borthwike,</hi> who was ſent by the Council to view his Body.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
